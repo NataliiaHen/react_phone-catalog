@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.ed76e87e.chunk.css",
-    "main.js": "./static/js/main.48ee7b81.chunk.js",
-    "main.js.map": "./static/js/main.48ee7b81.chunk.js.map",
+    "main.css": "./static/css/main.54dd1d9c.chunk.css",
+    "main.js": "./static/js/main.575d0f99.chunk.js",
+    "main.js.map": "./static/js/main.575d0f99.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.5d9772c5.chunk.js": "./static/js/2.5d9772c5.chunk.js",
-    "static/js/2.5d9772c5.chunk.js.map": "./static/js/2.5d9772c5.chunk.js.map",
+    "static/js/2.5cba394e.chunk.js": "./static/js/2.5cba394e.chunk.js",
+    "static/js/2.5cba394e.chunk.js.map": "./static/js/2.5cba394e.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.ed76e87e.chunk.css.map": "./static/css/main.ed76e87e.chunk.css.map",
-    "static/js/2.5d9772c5.chunk.js.LICENSE.txt": "./static/js/2.5d9772c5.chunk.js.LICENSE.txt",
-    "static/media/DropDown.scss": "./static/media/Chevron (Arrow Up).9a1c2a11.svg",
+    "static/css/main.54dd1d9c.chunk.css.map": "./static/css/main.54dd1d9c.chunk.css.map",
+    "static/js/2.5cba394e.chunk.js.LICENSE.txt": "./static/js/2.5cba394e.chunk.js.LICENSE.txt",
+    "static/media/Dropdown.scss": "./static/media/Chevron (Arrow Up).9a1c2a11.svg",
     "static/media/ProductCard.scss": "./static/media/Cursor.2ba068c0.svg",
     "static/media/ButtonHeart.scss": "./static/media/Favourites Filled (Heart Like).d554a185.svg",
-    "static/media/ProductDetailsPage.scss": "./static/media/Mont-SemiBold.8979d71a.otf"
+    "static/media/CartPage.scss": "./static/media/Mont-SemiBold.8979d71a.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.5d9772c5.chunk.js",
-    "static/css/main.ed76e87e.chunk.css",
-    "static/js/main.48ee7b81.chunk.js"
+    "static/js/2.5cba394e.chunk.js",
+    "static/css/main.54dd1d9c.chunk.css",
+    "static/js/main.575d0f99.chunk.js"
   ]
 }

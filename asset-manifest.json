@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.4fbd5d08.chunk.css",
-    "main.js": "./static/js/main.ace7d589.chunk.js",
-    "main.js.map": "./static/js/main.ace7d589.chunk.js.map",
+    "main.css": "./static/css/main.2d917864.chunk.css",
+    "main.js": "./static/js/main.e696aacb.chunk.js",
+    "main.js.map": "./static/js/main.e696aacb.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.15f5d5f6.chunk.js": "./static/js/2.15f5d5f6.chunk.js",
-    "static/js/2.15f5d5f6.chunk.js.map": "./static/js/2.15f5d5f6.chunk.js.map",
+    "static/js/2.eb716069.chunk.js": "./static/js/2.eb716069.chunk.js",
+    "static/js/2.eb716069.chunk.js.map": "./static/js/2.eb716069.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.4fbd5d08.chunk.css.map": "./static/css/main.4fbd5d08.chunk.css.map",
-    "static/js/2.15f5d5f6.chunk.js.LICENSE.txt": "./static/js/2.15f5d5f6.chunk.js.LICENSE.txt",
-    "static/media/ProductPageContent.scss": "./static/media/Chevron (Arrow Down).fc843d11.svg",
+    "static/css/main.2d917864.chunk.css.map": "./static/css/main.2d917864.chunk.css.map",
+    "static/js/2.eb716069.chunk.js.LICENSE.txt": "./static/js/2.eb716069.chunk.js.LICENSE.txt",
+    "static/media/Catalog.scss": "./static/media/Chevron (Arrow Down).fc843d11.svg",
     "static/media/ProductCard.scss": "./static/media/Cursor.2ba068c0.svg",
     "static/media/ButtonHeart.scss": "./static/media/Favourites Filled (Heart Like).d554a185.svg",
     "static/media/CartPage.scss": "./static/media/Mont-SemiBold.8979d71a.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.15f5d5f6.chunk.js",
-    "static/css/main.4fbd5d08.chunk.css",
-    "static/js/main.ace7d589.chunk.js"
+    "static/js/2.eb716069.chunk.js",
+    "static/css/main.2d917864.chunk.css",
+    "static/js/main.e696aacb.chunk.js"
   ]
 }
